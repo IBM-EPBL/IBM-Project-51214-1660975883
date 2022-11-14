@@ -1,5 +1,3 @@
-# IBM-Project-51214-1660975883
-
 # Visualizing and Predicting Heart Diseases with an Interactive Dash Board
   
 
@@ -13,10 +11,10 @@
 # Team Members :
 |   **Title**   |         **Name**        |
 |:-------------:|:-----------------------:|
-|  Team Leader  |  **CHAMULURU RAJ KUMAR REDDY**     |
-| Team Member 1 |  **VANTARI UDAY KIRAN**   |
-| Team Member 2 |  **PESALA MADHUSUDHAN REDDY**          |
-| Team Member 3 |  **DASARI JAYANTH**     |
+|  Team Leader  |  **Chamuluru Raj Kumar Reddy**     |
+| Team Member 1 |  **Vantari Uday Kiran**   |
+| Team Member 2 |  **Pesala Madhusudhan Reddy**          |
+| Team Member 3 |  **Dasari Jayanth**     |
 
 ## Ideation Phase 
 * [Brainstorm & Idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/blob/main/Ideation%20Phase/brainstorm%20and%20ideation.docx)
@@ -46,7 +44,7 @@
 * [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/blob/main/Project%20Planning%20Phase/sprint%20Delivery%20Plan.docx)
 
 ## Project Development Phase
-* [Sprint I]()
-* [Sprint II]()
-* [Sprint III]()
-* [Sprint IV]()
+* [Sprint I](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/tree/main/Project%20Development%20Phase/Sprint-1)
+* [Sprint II](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/tree/main/Project%20Development%20Phase/Sprint-2)
+* [Sprint III](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/tree/main/Project%20Development%20Phase/Sprint-3)
+* [Sprint IV](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/tree/main/Project%20Development%20Phase/Sprint-4)
