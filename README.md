@@ -13,10 +13,10 @@
 # Team Members :
 |   **Title**   |         **Name**        |
 |:-------------:|:-----------------------:|
-|  Team Leader  |  **Chamuluru Raj Kumar Reddy**     |
-| Team Member 1 |  **Vantari Uday Kiran**   |
-| Team Member 2 |  **Pesala Madhusudhan Reddy**          |
-| Team Member 3 |  **Dasari Jayanth**     |
+|  Team Leader  |  **CHAMULURU RAJ KUMAR REDDY**     |
+| Team Member 1 |  **VANTARI UDAY KIRAN**   |
+| Team Member 2 |  **PESALA MADHUSUDHAN REDDY**          |
+| Team Member 3 |  **DASARI JAYANTH**     |
 
 ## Ideation Phase 
 * [Brainstorm & Idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-51214-1660975883/blob/main/Ideation%20Phase/brainstorm%20and%20ideation.docx)
